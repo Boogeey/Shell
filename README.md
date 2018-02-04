@@ -1,2 +1,2 @@
 # Shell
-Empty Shell with HTML/CSS/JAVASCRIPT
+Empty Shell with with folder structure that I usually use.
